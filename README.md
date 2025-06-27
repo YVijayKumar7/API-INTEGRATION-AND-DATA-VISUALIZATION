@@ -19,7 +19,6 @@
 This is an integrated E-Commerce Data Analysis project developed as part of my CODTECH internship. It includes:
 
 1. **API Integration & Data Visualization** – Fetches e-commerce data from APIs and visualizes using Python libraries.
-   ![Image](https://github.com/user-attachments/assets/52958f11-57c8-4989-ad59-b3a8521588f6)
 3. **Automated Report Generation** – Generates formatted PDF reports from analyzed data using FPDF or ReportLab.
 4. **AI Chatbot with NLP** – An interactive chatbot to query data insights using NLTK for natural language processing.
 5. **ML Model for Purchase Prediction** – Predicts customer purchase likelihood based on historical data using Machine Learning.
@@ -79,5 +78,5 @@ Tokenizes user input to detect keywords
 Responds with data-based answers
 Basic conversational capability
 
-
+# output
 
