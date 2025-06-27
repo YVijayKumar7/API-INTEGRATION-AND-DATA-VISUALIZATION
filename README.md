@@ -68,7 +68,7 @@ Revenue, orders, and product sales visualizations
  # Future Enhancements
 Deploy chatbot as a web app using Flask or Streamlit.
 Automate daily PDF report emails.
-Improve ML model with hyperparameter tuning and advanced algorithms.
+  Improve ML model with hyperparameter tuning and advanced algorithms.
 Integrate database storage for real-time querying.
 The PDF report will be generated and saved in the project directory.
 Download required NLTK resources:
@@ -79,4 +79,8 @@ Responds with data-based answers
 Basic conversational capability
 
 # output
-
+[ecommerce_report.pdf](https://github.com/user-attachments/files/20945739/ecommerce_report.pdf)
+[ecommerce_sales_report.pdf](https://github.com/user-attachments/files/20945740/ecommerce_sales_report.pdf)
+![Image](https://github.com/user-attachments/assets/0dff1d47-fe69-4f7e-a7e0-d65e7cd05249)
+![Image](https://github.com/user-attachments/assets/1b6ba958-d421-40ae-aba7-c116b2c6ed3a)
+![Image](https://github.com/user-attachments/assets/52958f11-57c8-4989-ad59-b3a8521588f6)
