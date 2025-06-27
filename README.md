@@ -42,10 +42,41 @@ Generates automated PDF reports summarizing KPIs.
 Chatbot answers questions like revenue, total orders, top products.
 ML model predicts purchase probability to enhance business decisions.
 
+# Task 1 – API Integration & Data Visualization
+
+## 📌 Overview
+
+This script fetches e-commerce data from a public or mock API, processes it using **pandas**, and visualizes insights like revenue trends, order counts, and top products using **matplotlib** and **seaborn**.
+## 🛠️ Technologies
+- Python
+- requests
+- pandas
+- matplotlib / seaborn
+---
+## 🚀 How to Run
+1. Install dependencies:
+pip install requests pandas matplotlib seaborn
+Run the script:
+python api_integration.py
+View output graphs in the displayed windows or saved PNG files.
+
+📈 Features
+API data fetching and parsing
+Data cleaning and preprocessing
+Revenue, orders, and product sales visualizations
+
  # Future Enhancements
 Deploy chatbot as a web app using Flask or Streamlit.
 Automate daily PDF report emails.
 Improve ML model with hyperparameter tuning and advanced algorithms.
 Integrate database storage for real-time querying.
+The PDF report will be generated and saved in the project directory.
+Download required NLTK resources:
+Interact in the terminal to get revenue, orders, and top products information.
+# Features
+Tokenizes user input to detect keywords
+Responds with data-based answers
+Basic conversational capability
+
 
 
